@@ -11,5 +11,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "make": "^0.0.0",
+    "npm": "^9.7.2",
+    "readline-sync": "^1.4.10"
+  }
 }
